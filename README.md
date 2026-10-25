@@ -1,4 +1,4 @@
-# coderhouse-ai-engineering
+# coder-aiengineering-e1
 
 **Pre-entrega 1: Unified Async LLM Client.** Cliente asíncrono en Python 3.12 para hablar con **OpenAI** o **Anthropic** a través de una misma interfaz. El proveedor se elige desde el archivo `.env`, sin tocar el código.
 
@@ -18,8 +18,8 @@
 ## Instalación
 
 ```bash
-git clone https://github.com/perezjuansq-hue/coderhouse-ai-engineering.git
-cd coderhouse-ai-engineering
+git clone https://github.com/perezjuansq-hue/coder-aiengineering-e1.git
+cd coder-aiengineering-e1
 
 # Crear el entorno virtual con Python 3.12
 py -3.12 -m venv .venv          # Windows
